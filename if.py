@@ -22,10 +22,15 @@ while True:
 
             sub_opcion = input("Seleccione una opcion (1-10): ")
             if sub_opcion == "1":
-                print("\nNayeon es la integrante mayor del grupo, nacida el 22 de septiembre de 1995, conocida por su potente vocal y carisma en el escenario.")
-                print("Su animal representativo es el conejo, y su color es el rosa.")
+                print("\nIm Na-yeon")
+                print('''22 de septiembre de 1995
+                      Gangdong-gu, Seúl, Corea del Sur
+                      Lead vocalista y centro del grupo''')
+                print("Su animal representativo es el conejo, y su color es el azul cielo.")
             elif sub_opcion == "2":
-                print("\nJeongyeon es la segunda integrante mayor, nacida el 1 de noviembre de 1996, reconocida por su voz única, estilo versátil y fuerte sentido del humor.")
+                print("\nYoo Jeong-yeon")
+                print("1 de noviembre de 1996")
+                print("Suwon, Corea del Sur")
                 print("Su animal representativo es un cachorro u avestrus, y su color es el verde.")
             elif sub_opcion == "3":
                 print("\nMomo nacida en 1996 en Kioto Japon, es la baiarina principal del grupo, su destresa en el baile la han hecho destacat como la mejor bailarina de la tercera generacion de K-pop.")
